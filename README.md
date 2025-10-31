@@ -73,5 +73,4 @@ Aucun prérequis nécessaire ! Simple HTML/CSS statique.
 ### Étapes
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/votre-username/storyforge.git
-cd storyforge
+git clone https://github.com/souleimen-lachguer/StoryForge
